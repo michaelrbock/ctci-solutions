@@ -1,4 +1,4 @@
-ctci-solutions
+CtCI Solutions
 ==============
 
-Solutions to Cracking the Coding Interview Problems
+My solutions to *Cracking the Coding Interview* problems.
