@@ -9,4 +9,4 @@ then my solution corrected on the computer if there were errors.
 * Chapter 1: Arrays and Strings
 * Chapter 2: Linked Lists
 * Chapter 4: Trees and Graphs
-* Chapter 11: Sorting and Searching
+* Chapter 10: Sorting and Searching
